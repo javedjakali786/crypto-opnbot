@@ -8,7 +8,7 @@ module.exports = {
   DEFAULT_CHART_STUDIES: ['EMA:50', 'EMA:200', 'RSI'],
   DEFAULT_TIMEZONE: 'Etc/UTC',
 
-  BOT_NAME: '@CryptoOpnBot',
+  BOT_NAME: '@MM_Crypto_Tracker_Bot',
 
   THEME_IMG: 'dark', // dark,light
 
